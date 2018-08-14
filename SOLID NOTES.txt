@@ -1,0 +1,6 @@
+SOLID
+	Single responsibility principle
+	Open/Close Principle
+	Liskov Subsitution Principle
+	Interface Segregation Principle
+	Dependency Inversion Principle
