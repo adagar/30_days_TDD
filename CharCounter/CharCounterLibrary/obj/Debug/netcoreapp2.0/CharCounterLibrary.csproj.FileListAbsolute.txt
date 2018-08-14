@@ -1,0 +1,9 @@
+C:\Users\A Nick Garza\Desktop\CareerDevs\30_days_TDD\CharCounter\CharCounterLibrary\bin\Debug\netcoreapp2.0\CharCounterLibrary.deps.json
+C:\Users\A Nick Garza\Desktop\CareerDevs\30_days_TDD\CharCounter\CharCounterLibrary\bin\Debug\netcoreapp2.0\CharCounterLibrary.dll
+C:\Users\A Nick Garza\Desktop\CareerDevs\30_days_TDD\CharCounter\CharCounterLibrary\bin\Debug\netcoreapp2.0\CharCounterLibrary.pdb
+C:\Users\A Nick Garza\Desktop\CareerDevs\30_days_TDD\CharCounter\CharCounterLibrary\obj\Debug\netcoreapp2.0\CharCounterLibrary.csprojAssemblyReference.cache
+C:\Users\A Nick Garza\Desktop\CareerDevs\30_days_TDD\CharCounter\CharCounterLibrary\obj\Debug\netcoreapp2.0\CharCounterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\A Nick Garza\Desktop\CareerDevs\30_days_TDD\CharCounter\CharCounterLibrary\obj\Debug\netcoreapp2.0\CharCounterLibrary.AssemblyInfoInputs.cache
+C:\Users\A Nick Garza\Desktop\CareerDevs\30_days_TDD\CharCounter\CharCounterLibrary\obj\Debug\netcoreapp2.0\CharCounterLibrary.AssemblyInfo.cs
+C:\Users\A Nick Garza\Desktop\CareerDevs\30_days_TDD\CharCounter\CharCounterLibrary\obj\Debug\netcoreapp2.0\CharCounterLibrary.dll
+C:\Users\A Nick Garza\Desktop\CareerDevs\30_days_TDD\CharCounter\CharCounterLibrary\obj\Debug\netcoreapp2.0\CharCounterLibrary.pdb
