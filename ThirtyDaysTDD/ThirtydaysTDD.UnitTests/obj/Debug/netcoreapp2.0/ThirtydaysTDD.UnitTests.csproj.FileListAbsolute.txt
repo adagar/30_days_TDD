@@ -1,0 +1,5 @@
+C:\Users\A Nick Garza\Desktop\CareerDevs\30_days_TDD\ThirtyDaysTDD\ThirtydaysTDD.UnitTests\bin\Debug\netcoreapp2.0\ThirtydaysTDD.UnitTests.deps.json
+C:\Users\A Nick Garza\Desktop\CareerDevs\30_days_TDD\ThirtyDaysTDD\ThirtydaysTDD.UnitTests\bin\Debug\netcoreapp2.0\ThirtydaysTDD.UnitTests.dll
+C:\Users\A Nick Garza\Desktop\CareerDevs\30_days_TDD\ThirtyDaysTDD\ThirtydaysTDD.UnitTests\obj\Debug\netcoreapp2.0\ThirtydaysTDD.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\A Nick Garza\Desktop\CareerDevs\30_days_TDD\ThirtyDaysTDD\ThirtydaysTDD.UnitTests\obj\Debug\netcoreapp2.0\ThirtydaysTDD.UnitTests.AssemblyInfoInputs.cache
+C:\Users\A Nick Garza\Desktop\CareerDevs\30_days_TDD\ThirtyDaysTDD\ThirtydaysTDD.UnitTests\obj\Debug\netcoreapp2.0\ThirtydaysTDD.UnitTests.AssemblyInfo.cs
